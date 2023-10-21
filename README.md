@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c" alt="C" height="30" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" height="30" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JS" height="30" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=javascript" alt="JS" height="30" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript" alt="TS" height="30" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react" alt="React" height="30" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/NodeJS-3776AB?style=for-the-badge&logo=nodedotjs" alt="Node" height="30" style="vertical-align:top; margin:4px">
