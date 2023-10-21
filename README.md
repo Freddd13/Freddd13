@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Fred, a simple soul drawn to the special.
+I'm Fred, a simple soul drawn to the special.
 <!-- - 📫 How to reach me: ... -->
 - 🔭 I’m currently working on Lidar SLAM for a master degree.
 - 😄 I love piano and animes. 
