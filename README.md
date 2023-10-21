@@ -4,10 +4,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Lidar SLAM for a master degree.
 - 🌱 I’m also learning web development due to job requirements.
-<!-- - 📫 How to reach me: ... -->
 - 😄 I love piano and animes. 
+<!-- - 📫 How to reach me: ... -->
 
-## 🧰 Languages and Tools:
+## 🧰 Tech stack (Some are still being learned...)
 <!-- c/c++, python -->
 <!-- JS/TS React Node django -->
 <!-- Labview -->
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/NodeJS-3776AB?style=for-the-badge&logo=nodedotjs" alt="Node" height="25" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" alt="Django" height="25" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview" alt="LabVIEW" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros" alt="ros" height="25" style="vertical-align:top; margin:4px">
 </p>
 
-
+![Metrics](/github-metrics.svg)
