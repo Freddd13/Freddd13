@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 <!-- JS/TS React Node django -->
 <!-- Labview -->
 <p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c" alt="C" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=javascript" alt="JS" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript" alt="TS" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react" alt="React" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/NodeJS-3776AB?style=for-the-badge&logo=nodedotjs" alt="Node" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" alt="Django" height="30" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview" alt="LabVIEW" height="30" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c" alt="C" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JS" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript" alt="TS" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react" alt="React" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/NodeJS-3776AB?style=for-the-badge&logo=nodedotjs" alt="Node" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" alt="Django" height="25" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview" alt="LabVIEW" height="25" style="vertical-align:top; margin:4px">
 </p>
 
 
