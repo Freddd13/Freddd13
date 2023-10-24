@@ -35,5 +35,5 @@ I'm Fred, a simple soul drawn to the special.
 
 <center>
   <img align="left" src="/github-metrics.svg" width="390" />
-  <img align="right" src="/metrics.plugin.anilist.svg" width="390" /> 
+  <img align="right" src="/myanime.svg" width="390" /> 
 </center>
