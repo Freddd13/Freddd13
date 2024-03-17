@@ -3,7 +3,8 @@ I'm Fred, a simple soul drawn to the special.
 <!-- - 📫 How to reach me: ... -->
 - 🔭 I'm an aspiring salaryman.
 - 😄 I love piano and animes. 
-- 🚀 ~~ My tech stack: <img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white" alt="C" > <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" > <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="Python" > <img src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white" alt="ros" > ~~
+- 🚀 ~~ My tech stack: ~~
+<!-- <img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white" alt="C" > <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" > <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="Python" > <img src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white" alt="ros" >  -->
     We're in the age of AI now, to hell with the fucking programming tech stack.
 - 😩 Currently learning due to job requirements: <img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JS" > <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" alt="TS" > <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB" alt="React" > <img src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white" alt="Django" > <img src="https://img.shields.io/badge/LabView-41BF47?logo=labview&logoColor=white" alt="labview" >
 
